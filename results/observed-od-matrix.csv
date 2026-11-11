@@ -1,0 +1,13 @@
+origin,Haymarket Square,Back Bay,North End,North Station,Beacon Hill,Boston University,Fenway,South Station,Theatre District,West End,Financial District,Northeastern University
+Haymarket Square,0,9605,0,9634,9566,0,0,0,9641,9156,10134,0
+Back Bay,9605,0,10225,0,0,9435,9469,9474,0,0,0,9584
+North End,0,10225,0,9422,10039,0,0,0,9525,9213,9339,0
+North Station,9641,0,9421,0,0,9480,9751,9146,0,0,0,9679
+Beacon Hill,9566,0,10039,0,0,9222,9436,9456,0,0,0,9684
+Boston University,0,9435,0,9480,9215,0,0,0,9967,9956,9711,0
+Fenway,0,9476,0,9751,9436,0,0,0,9248,10165,9681,0
+South Station,0,9460,0,9153,9457,0,0,0,9773,9555,10352,0
+Theatre District,9663,0,9526,0,0,9966,9241,9773,0,0,0,9644
+West End,9156,0,9206,0,0,9950,10165,9548,0,0,0,9537
+Financial District,10133,0,9339,0,0,9711,9695,10352,0,0,0,9627
+Northeastern University,0,9579,0,9679,9690,0,0,0,9644,9530,9634,0

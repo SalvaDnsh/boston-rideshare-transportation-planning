@@ -1,0 +1,14 @@
+date_id,origin,destination,slot,served_trips,distance_per_trip_raw_units,price_per_trip,revenue,LP_status
+11-26,Theatre District,South Station,3,34.098296,0.586540,19.528527,665.889495,Optimal
+11-27,South Station,Theatre District,1,16.128468,1.240043,39.908174,643.657711,Optimal
+11-28,Theatre District,South Station,1,34.098296,0.586540,20.512509,699.441589,Optimal
+11-29,Haymarket Square,West End,3,31.280239,0.639381,20.096744,628.630949,Optimal
+11-30,Theatre District,South Station,1,34.098296,0.586540,19.418708,662.144856,Optimal
+12-03,Financial District,South Station,1,47.914995,0.417406,12.382077,593.287159,Optimal
+12-04,West End,Haymarket Square,1,16.000000,0.751884,25.203060,403.248961,Optimal
+12-04,Financial District,South Station,1,19.093782,0.417406,13.428906,256.408605,Optimal
+12-10,Boston University,Back Bay,0,12.800338,1.562459,73.750524,944.031637,Optimal
+12-13,Financial District,South Station,1,47.914995,0.417406,12.877598,617.030066,Optimal
+12-14,Financial District,South Station,0,47.914995,0.417406,11.986644,574.339979,Optimal
+12-17,Financial District,South Station,1,47.914995,0.417406,13.497618,646.738322,Optimal
+12-18,Back Bay,Boston University,3,13.942686,1.434444,107.597273,1500.194987,Optimal

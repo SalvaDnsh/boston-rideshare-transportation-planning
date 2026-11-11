@@ -1,0 +1,6 @@
+method,iterations,aggregate_error_pct
+Furness,1,0.336013
+Detroit,1,
+Fratar,1,0.336013
+Exponential gravity,3,0.358558
+Power gravity,2,0.336013

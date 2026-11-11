@@ -1,0 +1,8 @@
+weekday,records,nonzero_pairs,mean_records_per_nonzero_pair,balanced
+Monday,124216,72,1725.222222,False
+Tuesday,124949,72,1735.402778,False
+Wednesday,73691,72,1023.486111,False
+Thursday,98505,72,1368.125000,False
+Friday,90012,72,1250.166667,False
+Saturday,90168,72,1252.333333,False
+Sunday,91530,72,1271.250000,False
